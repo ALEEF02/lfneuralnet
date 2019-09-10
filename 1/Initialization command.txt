@@ -1,5 +1,0 @@
->conda activate neural-network-projects-python
-python (file)
-
-
-in anaconda prompt
